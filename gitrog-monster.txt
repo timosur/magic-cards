@@ -1,70 +1,71 @@
-1 The Gitrog Monster (soi)
-1 Jund Panorama (c18)
-1 Drownyard Temple (c19)
-1 Dakmor Salvage (uma)
-1 Tranquil Thicket (c18)
-1 Desert of the Indomitable (hou)
-1 Slippery Karst (gvl)
-1 Blasted Landscape (cm2)
-1 Terramorphic Expanse (c18)
-1 Evolving Wilds (afr)
-1 Barren Moor (c15)
-1 Blighted Woodland (znc)
-1 Desert of the Glorified (hou)
-1 Polluted Mire (gvl)
-15 Forest
-12 Swamp
-1 Rampant Growth (afc)
-1 Golgari Thug
-1 Greater Mossdog
-1 Shambling Shell
-1 Rampaging Baloths (znc)
-1 Jolrael, Empress of Beasts
-1 Noose Constrictor (emn)
-1 Satyr Wayfinder (cma)
-1 Centaur Vinecrasher (c18)
-1 Nyx Weaver (c20)
-1 Zendikar's Roil (znc)
-1 The Mending of Dominaria (znc)
-1 Khalni Heart Expedition (c18)
-1 Worm Harvest (c18)
-1 Gaze of Granite (c20)
-1 Kodama's Reach (znc)
-1 Far Wanderings (znc)
-1 Drown in Filth
-1 Cultivate (afc)
-1 Nostalgic Dreams
-1 Scout the Borders (ktk)
-1 Fork in the road (soi)
-1 Mulch (vow)
-1 Harrow (c18)
-1 Grapple with the past (c18)
-1 Grisly Salvage (c20)
-1 Putrefy (c18)
+1x Barren Moor (C15)
+1x Blasted Landscape (CM2)
+1x Blighted Woodland (ZNC)
+1x Centaur Vinecrasher (C18)
+1x Cultivate (AFC)
+1x Dakmor Salvage (UMA)
+1x Desert of the Glorified (HOU)
+1x Desert of the Indomitable (HOU)
+1x Drown in Filth
+1x Drownyard Temple (C19)
+1x Evolving Wilds (AFR)
+1x Far Wanderings (ZNC)
+15x Forest
+1x Fork in the Road (SOI)
+1x Gaze of Granite (C20)
+1x Golgari Thug
+1x Grapple with the Past (C18)
+1x Greater Mossdog
+1x Grisly Salvage (C20)
+1x Harrow (C18)
+1x Jolrael, Empress of Beasts
+1x Jund Panorama (C18)
+1x Khalni Heart Expedition (C18)
+1x Kodama's Reach (ZNC)
+1x Mulch (VOW)
+1x Noose Constrictor (EMN)
+1x Nostalgic Dreams
+1x Nyx Weaver (C20)
+1x Polluted Mire
+1x Putrefy (C18)
+1x Rampaging Baloths (ZNC)
+1x Rampant Growth (AFC)
+1x Satyr Wayfinder
+1x Scout the Borders (KTK)
+1x Shambling Shell
+1x Slippery Karst
+12x Swamp
+1x Terramorphic Expanse (C18)
+1x The Gitrog Monster (SOI) *CMDR*
+1x The Mending of Dominaria (ZNC)
+1x Tranquil Thicket (C18)
+1x Worm Harvest (C18)
+1x Zendikar's Roil (ZNC)
+
 # Optional
-1 Aspect of Mongoose
-1 Fortitude
-1 Abundance (ddr)
-1 Zombie Infestation (jmp)
-1 Fade into Antiquity
-1 Languish (cm2)
-1 Nissa's Pilgrimage (ori)
-1 Final Parting (dom)
-1 Yahenni's Expertise (aer)
-1 Sever the Bloodline (c15)
-1 Dunes of the Dead (hou)
-1 Blighted Fen (bfz)
-1 Grasping Dunes (akh)
-1 Hashep Oasis (hou)
-1 Warped Landscape (c18)
-1 Buried Ruin (c18)
-1 Sequestered Stash (kld)
-1 Seer's Sundial (cmr)
-1 Perpetual Timepiece (kld)
-1 Codex Shredder (cmr)
-1 Yavimaya Elder (znc)
-1 Terastodon (c21)
-1 Necroplasm (cm2)
-1 Grazing Gladehart (ddo)
-1 Baloth Woodcrasher (c18)
-1 Groundskeeper (uma)
+1x Abundance (DDR)
+1x Aspect of Mongoose
+1x Baloth Woodcrasher (C18)
+1x Blighted Fen (BFZ)
+1x Buried Ruin (C18)
+1x Codex Shredder (CMR)
+1x Dunes of the Dead (HOU)
+1x Fade into Antiquity
+1x Final Parting (DOM)
+1x Fortitude
+1x Grasping Dunes (AKH)
+1x Grazing Gladehart (DDO)
+1x Groundskeeper (UMA)
+1x Hashep Oasis (HOU)
+1x Languish (CM2)
+1x Necroplasm (CM2)
+1x Nissa's Pilgrimage (ORI)
+1x Perpetual Timepiece (KLD)
+1x Seer's Sundial (CMR)
+1x Sequestered Stash (KLD)
+1x Sever the Bloodline (C15)
+1x Terastodon (C21)
+1x Warped Landscape (C18)
+1x Yahenni's Expertise (AER)
+1x Yavimaya Elder (ZNC)
+1x Zombie Infestation (JMP)
